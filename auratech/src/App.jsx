@@ -11,8 +11,7 @@ import WhatsAppButton from './components/WhatsAppButton';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Internship from './pages/Internship';
-import './styles/utils.css';
-import './styles/main.css';
+import './styles/global.css';
 
 function App() {
   return (

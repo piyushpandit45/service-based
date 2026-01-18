@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import '../styles/utils.css';
-import '../styles/main.css';
+import { useNavigate } from 'react-router-dom';
+import '../styles/internship.css';
+import '../styles/responsive.css';
 
 const Internship = () => {
   const [selectedCourse, setSelectedCourse] = useState(null);

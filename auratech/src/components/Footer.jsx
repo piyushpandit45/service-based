@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/utils.css';
-import '../styles/main.css';
+import '../styles/footer.css';
+import '../styles/responsive.css';
 
 const Footer = () => {
   const handleWhatsAppContact = () => {
